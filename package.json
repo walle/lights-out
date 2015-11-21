@@ -1,0 +1,29 @@
+{
+  "name": "lights-out",
+  "productName": "Lights Out",
+  "version": "1.0.0",
+  "description": "A simple game",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walle/lights-out.git"
+  },
+  "keywords": [
+    "Electron",
+    "game",
+    "lights",
+    "out"
+  ],
+  "author": "Fredrik Wallgren",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/walle/lights-out/issues"
+  },
+  "homepage": "https://github.com/walle/lights-out#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^0.34.0"
+  }
+}
